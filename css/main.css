@@ -2601,7 +2601,7 @@ mark.search-keyword {
   }
 }
 .site-brand-container {
-  background: #0684bd;
+  background: #222;
 }
 @media (max-width: 991px) {
   .site-nav-on .site-brand-container {
