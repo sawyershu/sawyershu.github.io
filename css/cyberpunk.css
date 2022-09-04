@@ -441,7 +441,7 @@ code {
   background-color: #f5f5f5;
   color: #ff003c;
   font-size: 0.875em;
-  font-weight: 700;
+  font-weight: 400;
   padding: 0.25em 0.5em 0.25em;
 }
 hr {
@@ -5261,8 +5261,8 @@ fieldset[disabled] .button {
 .content h4,
 .content h5,
 .content h6 {
-  color: #ff003c;
-  font-weight: 400;
+  color: #fcee09;
+  font-weight: 500;
   line-height: 1.125;
 }
 .content h1 {
@@ -10837,8 +10837,8 @@ article.article .content pre {
 article.article .content code {
   padding: 0;
   background: #f3f4f4;
-  overflow-wrap: break-word;
   border-radius: 3px;
+  overflow-wrap: break-word;
 }
 article.article .content blockquote.pullquote {
   float: right;
