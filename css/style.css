@@ -10835,8 +10835,8 @@ article.article .content pre {
 }
 article.article .content code {
   padding: 0;
-  background: #f3f4f4;
-  border-radius: 3px;
+  font-weight: 500;
+  background: transparent;
   overflow-wrap: break-word;
 }
 article.article .content blockquote.pullquote {
@@ -11253,6 +11253,7 @@ figure.highlight {
   position: relative;
   margin: 1em 0 1em !important;
   border-radius: 4px;
+  font-weight: 500;
 }
 figure.highlight.folded .highlight-body {
   height: 0;
@@ -11293,7 +11294,7 @@ figure.highlight figcaption {
   margin: 0 !important;
   padding: 0.3em 0em 0.3em 0.75em;
   font-style: normal;
-  font-size: 0.8em;
+  font-size: 0.9em;
 }
 figure.highlight figcaption * {
   color: inherit;
