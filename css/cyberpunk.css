@@ -11298,7 +11298,7 @@ figure.highlight figcaption {
   margin: 0 !important;
   padding: 0.3em 0em 0.3em 0.75em;
   font-style: normal;
-  font-size: 0.9em;
+  font-size: 0.85em;
 }
 figure.highlight figcaption * {
   color: inherit;
