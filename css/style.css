@@ -5306,7 +5306,7 @@ fieldset[disabled] .button {
 .content ol {
   list-style-position: outside;
   margin-left: 2em;
-  margin-top: 0em;
+  margin-top: -0.8em;
 }
 .content ol:not([type]) {
   list-style-type: decimal;
