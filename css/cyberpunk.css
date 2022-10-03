@@ -5306,7 +5306,7 @@ fieldset[disabled] .button {
 .content ol {
   list-style-position: outside;
   margin-left: 2em;
-  margin-top: 1em;
+  margin-top: 0em;
 }
 .content ol:not([type]) {
   list-style-type: decimal;
@@ -5326,11 +5326,11 @@ fieldset[disabled] .button {
 .content ul {
   list-style: disc outside;
   margin-left: 2em;
-  margin-top: 1em;
+  margin-top: 0em;
 }
 .content ul ul {
   list-style-type: circle;
-  margin-top: 0.5em;
+  margin-top: 0em;
 }
 .content ul ul ul {
   list-style-type: square;
