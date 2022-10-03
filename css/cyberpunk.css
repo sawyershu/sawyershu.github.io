@@ -5326,11 +5326,11 @@ fieldset[disabled] .button {
 .content ul {
   list-style: disc outside;
   margin-left: 2em;
-  margin-top: 0em;
+  margin-top: -0.8em;
 }
 .content ul ul {
   list-style-type: circle;
-  margin-top: 0em;
+  margin-top: 0.2em;
 }
 .content ul ul ul {
   list-style-type: square;
